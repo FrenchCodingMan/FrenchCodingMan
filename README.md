@@ -25,6 +25,11 @@ I'm very attracted to web3, the world of crypto and blockchain, but I don't want
 
 My main objective is to find a job, which is why I'm focusing on Python because it's multi-language and offers me more opportunities.</p>
 
+# what is possible to do with python
+
+<img width="1255" alt="pythonPossibleToDo" src="https://github.com/FrenchCodingMan/FrenchCodingMan/assets/159005995/92ffba60-5216-46ff-bad3-0846a2be686b">
+
+
 <h2 align ="left">Why i choose Python</h2>
 
 <p>Python is a beginner-friendly programming language, it's the best language to start programming, it's the most permissive and generalist of all programming languages.
