@@ -18,6 +18,7 @@ I see , how i can use a dataBase for to register informations and the payment pr
 <p>I first learned swift because I liked ios, then flutter, with the mvvm architecture. Then I gave up because I didn't have any freelance assignments and the prospects were poor with flutter. Companies need native developers for complex projects. 
 
 # exemple of Flutter project that i did before <br>
+![flutter_food_app](https://github.com/FrenchCodingMan/FrenchCodingMan/assets/159005995/f45332bf-2d80-4cfa-bcd5-3e4b12999d62)
 
 
 I'm very attracted to web3, the world of crypto and blockchain, but I don't want to make the same mistake as in the past of learning a niche language.
